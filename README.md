@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project developed by Nextjs
+To run the project need to requires Node.js version 18.17.0 or higher
+Clone the project and npm i and run the project - npm run dev
+
 ## Getting Started
 
 First, run the development server:
